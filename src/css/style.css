@@ -1,0 +1,11 @@
+.test_svg {
+	background-image: url(../images/icon_reg.svg);
+	background-size: 21px 21px;
+	background-repeat: no-repeat;
+}
+
+.test_svg_two {
+	background-image: url(../images/svg/icon_reg.svg);
+	background-size: 21px 21px;
+	background-repeat: no-repeat;
+}

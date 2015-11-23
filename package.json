@@ -1,0 +1,9 @@
+{
+  "name": "test-svg-fallback",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.1",
+    "postcss-svg-fallback": "^1.2.0"
+  }
+}
