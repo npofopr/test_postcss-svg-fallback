@@ -16,8 +16,8 @@ var gulp = require('gulp'),
 gulp.task('css', function () {
 	var processors = [
 		svgFallback({
-			//basePath: 'src/images/svg',
-			//dest: 'build/images/svg',
+			basePath: 'src/css',
+			dest: 'build/css',
 			fallbackSelector: '.no-svg',
 			disableConvert: false
 		})
